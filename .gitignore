@@ -1,0 +1,11 @@
+# Raw API responses, workflow copies, and inspection evidence remain local.
+/local/
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+__pycache__/
+*.py[cod]
+.DS_Store
