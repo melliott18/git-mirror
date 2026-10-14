@@ -1,2 +1,2 @@
-# GitLab
-Locally-Hosted GitLab Mirror.
+# Git Mirror
+Locally-Hosted Git Mirror.
