@@ -6,6 +6,14 @@ the private Homelab runbook for current infrastructure and pilot evidence.
 
 ## Homelab relationship
 
+- At the start of linked-project work, read
+  `../homelab/docs/reference/projects.md` and
+  `../homelab/docs/reference/project-workflow.md`. Resolve project references
+  through the registry, then read the relevant authoritative records. After
+  material changes, update the owning record, link affected projects, qualify
+  issue references, and commit only reviewed task changes. Preserve concurrent
+  edits and identify local-only dependencies. If the private checkout is absent,
+  use authorized repository access or identify the missing context; do not infer it.
 - The sibling checkout `../homelab` is authoritative for host inventory, VM
   lifecycle, networking, physical storage, power policy, and independent recovery.
   Its remote is https://github.com/melliott18/homelab (private).

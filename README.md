@@ -10,10 +10,14 @@ GitLab and mirroring remain planned. See the [runner pilot](docs/runner-pilot.md
 
 ## Start here
 
+- [Shared project registry](../homelab/docs/reference/projects.md) and
+  [workflow](../homelab/docs/reference/project-workflow.md): ownership, context
+  lookup and handoffs (private Homelab checkout required).
 - [Project state](PROJECT_STATE.md): current findings and next steps.
 - [Mirroring and CI plan](docs/plan.md): scope, architecture, policy, and rollout.
 - [Capacity and CI assessment](docs/assessment-2026-10-14.md): VM sizing and pilot selection.
 - [Agent guide](AGENTS.md): maintenance and cross-project responsibilities.
+- [Decisions](docs/decisions/README.md) and [results](docs/logs/README.md).
 
 ## Related project
 
