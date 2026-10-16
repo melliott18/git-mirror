@@ -9,9 +9,10 @@ identities and raw output.
 | --- | --- |
 | 2026-10-14 | [Capacity and CI assessment](../assessment-2026-10-14.md) |
 | 2026-10-14 | [Runner pilot](../runner-pilot.md) |
-| 2026-10-14 | [GitLab sizing recheck](../gitlab-sizing-2026-10-14.md) |
 | 2026-10-15 | [Shared context setup](../../../homelab/docs/logs/2026-10-15-linked-project-context.md) in private Homelab |
 
 Follow the [shared workflow](../../../homelab/docs/reference/project-workflow.md)
 and update [project state](../../PROJECT_STATE.md) when outcomes change. Existing
-uncommitted assessment/pilot work remains owned by its originating task.
+uncommitted assessment/pilot work remains owned by its originating task. The
+October 14 sizing recheck at `docs/gitlab-sizing-2026-10-14.md` is currently local
+uncommitted evidence and is not required to navigate the published framework.
